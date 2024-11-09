@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class test {
 
     public static void main(String[] args) {
+
         ArrayList<String> list = new ArrayList<>();
         Collections.addAll(list, "abc.jpg", "d.gif", "ef.png", "hijk.jpg", "lmn.gif", "opqrst.jpg");
         Scanner sc = new Scanner(System.in);
